@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><name><value>Deep Learning - Deep Learning</value></name><author><value> Bengio Yoshua</value></author><price>4,859</price></item>
+<item><name><value>Deep Learning with Python: A Hands-on Introduction</value></name><author><value> Nikhil Ketkar</value></author><price>629</price></item>
+<item><name><value>Deep Learning - A Practical Approach</value></name><author><value> Rajiv Chopra</value></author><price>339</price></item>
+<item><name><value>Deep Learning with PyTorch</value></name><author><value> Subramanian Vishnu</value></author><price>2,238</price></item>
+<item><name><value>Deep Learning By Example</value></name><author><value> Menshawy Ahmed</value></author><price>2,239</price></item>
+<item><name><value>Deep Learning with TensorFlow</value></name><author><value> Zaccone Giancarlo</value></author><price>2,239</price></item>
+<item><name><value>Keras Deep Learning Cookbook</value></name><author><value> Dua Rajdeep</value></author><price>1,999</price></item>
+<item><name><value>Deep Learning with Python</value></name><author><value> Chollet Francois</value></author><price>2,971</price></item>
+<item><name><value>Deep Learning: A Practitioner's Approach</value></name><author><value> Josh Patterson</value><value> Adam Gibson</value></author><price>1,401</price></item>
+<item><name><value>Learning TensorFlow: A Guide to Building Deep Learning ...</value></name><author><value> Tom Hope</value><value> Yehezkel S. Resheff</value><value> Itay Lieder</value></author><price>665</price></item>
+<item><name><value>Deep Reinforcement Learning Hands-On</value></name><author><value> Lapan Maxim</value></author><price>2,239</price></item>
+<item><name><value>Python Deep Learning Projects</value></name><author><value> Lamons Matthew</value></author><price>2,559</price></item>
+<item><name><value>Java Deep Learning Essentials</value></name><author><value> Sugomori Yusuke</value></author><price>2,799</price></item>
+<item><name><value>Advanced Deep Learning with Keras</value></name><author><value> Atienza Rowel</value></author><price>2,239</price></item>
+<item><name><value>Java Deep Learning Projects</value></name><author><value> Karim Md. Rezaul</value></author><price>2,799</price></item>
+<item><name><value>Natural Language Processing with PyTorch: Build Intelli...</value></name><author><value> Delip Rao</value><value> Brian McMahan</value></author><price>1,425</price></item>
+<item><name><value>Apache Spark Deep Learning Cookbook</value></name><author><value> Sherif Ahmed</value></author><price>2,799</price></item>
+<item><name><value>TensorFlow 1.x Deep Learning Cookbook</value></name><author><value> Gulli Antonio</value></author><price>2,558</price></item>
+<item><name><value>Deep Learning Quick Reference</value></name><author><value> Bernico Michael</value></author><price>2,239</price></item>
+<item><name><value>Fundamentals of Deep Learning</value></name><author><value> Nikhil Buduma</value></author><price>736</price></item>
+<item><name><value>Machine Learning with Python Cookbook: Practical Soluti...</value></name><author><value> Chris Albon</value></author><price>855</price></item>
+<item><name><value>MATLAB Deep Learning</value></name><author><value> Kim Phil</value></author><price>450</price></item>
+<item><name><value>Thinking Through Project-Based Learning - Guiding Deepe...</value></name><author><value> Jane I. Krauss</value><value> Suzie K. Boss</value></author><price>660</price></item>
+<item><name><value>Deep Learning Essentials</value></name><author><value> Bhardwaj Anurag</value></author><price>719</price></item>
+<item><name><value>Deep Learning with TensorFlow</value></name><author><value> Zaccone Giancarlo</value></author><price>649</price></item>
+<item><name><value>R Deep Learning Essentials</value></name><author><value> Wiley Joshua F.</value></author><price>2,799</price></item>
+<item><name><value>In at the Deep End: A Survival Guide for Teachers in Po...</value></name><author><value> Crawley Jim</value></author><price>2,389</price></item>
+<item><name><value>Teaching Students to Dig Deeper</value></name><author><value> Johnson Ben</value></author><price>2,580</price></item>
+<item><name><value>In at the Deep End: A Survival Guide for Teachers in Po...</value></name><author><value> Crawley Jim</value></author><price>8,985</price></item>
+<item><name><value>Deep Learning with PyTorch Quick Start Guide</value></name><author><value> David Julian</value></author><price>1,679</price></item>
+<item><name><value>Facilitating Deep Learning: Pathways to Success for Uni...</value></name><author><value> Julian Hermida</value></author><price>10,516</price></item>
+<item><name><value>Deep Learning with Theano</value></name><author><value> Bourez Christopher</value></author><price>2,559</price></item>
+<item><name><value>Deep Learning with Hadoop</value></name><author><value> Dev Dipayan</value></author><price>2,239</price></item>
+<item><name><value>Hands-On Deep Learning with TensorFlow</value></name><author><value> Boxel Dan van</value></author><price>1,998</price></item>
+<item><name><value>Hands-On Serverless Deep Learning with TensorFlow and A...</value></name><author><value> Rustem Feyzkhanov</value></author><price>1,679</price></item>
+<item><name><value>Applied Deep Learning with Python</value></name><author><value> Galea Alex</value></author><price>966</price></item>
+<item><name><value>Python Deep Learning Cookbook</value></name><author><value> Bakker Indra den</value></author><price>2,558</price></item>
+<item><name><value>R Deep Learning Essentials</value></name><author><value> Hodnett Mark</value></author><price>966</price></item>
+<item><name><value>Natural Language Processing with PyTorch: Build Intelli...</value></name><author><value> Delip Rao</value><value> Brian McMahan</value></author><price>3,325</price></item>
+<item><name><value>Python: Deeper Insights into Machine Learning</value></name><author><value> Raschka Sebastian</value></author><price>5,119</price></item>
+<item><name><value>Learning Unix for OS X - Going Deep With the Terminal a...</value></name><author><value> Taylor Dave</value></author><price>400</price></item>
+<item><name><value>Deep Learning Ami Developer Guide</value></name><author><value> Team Documentation</value></author><price>3,719</price></item>
+<item><name><value>Deep Learning</value></name><author><value> Ohlsson Stellan</value></author><price>3,589</price></item>
+<item><name><value>Deep Learning with PyTorch</value></name><author><value> Subramanian Vishnu</value></author><price>2,238</price></item>
+<item><name><value>Nonlinear Algebra In An Acorn: With Applications To Dee...</value></name><author><value> Lee Martin J.</value></author><price>6,369</price></item>
+<item><name><value>Deeper Learning in Leadership</value></name><author><value> Roberts Dennis C.</value></author><price>3,889</price></item>
+<item><name><value>Deep Learning with Microsoft Cognitive Toolkit Quick St...</value></name><author><value> Willem Meints</value></author><price>1,679</price></item>
+<item><name><value>Quick and Dirty Guide to Deep Learning in R</value></name><author><value> Mochtar Marvilano</value></author><price>2,305</price></item>
+<item><name><value>Hands-On Deep Learning for Games</value></name><author><value> Micheal Lanham</value></author><price>2,239</price></item>
+<item><name><value>Deep Learning with TensorFlow</value></name><author><value> Zaccone Giancarlo</value></author><price>2,239</price></item>
+<item><name><value>Deep Learning for Computer Architects</value></name><author><value> Reagen Brandon</value></author><price>3,719</price></item>
+<item><name><value>Deep Learning for Computer Architects</value></name><author><value> Reagen Brandon</value></author><price>5,289</price></item>
+<item><name><value>Deep Learning in Object Recognition, Detection, and Seg...</value></name><author><value> Wang Xiaogang</value></author><price>7,649</price></item>
+<item><name><value>Deep Learning: A Practitioner's Approach</value></name><author><value> Josh Patterson</value><value> Adam Gibson</value></author><price>1,401</price></item>
+<item><name><value>Deep Learning and Data Labeling for Medical Application...</value></name><author><value> unknown</value></author><price>6,109</price></item>
+<item><name><value>TensorFlow Deep Learning Projects</value></name><author><value> Grigorev Alexey</value></author><price>2,239</price></item>
+<item><name><value>Autonomous Robotics and Deep Learning</value></name><author><value> Nath Vishnu</value></author><price>4,619</price></item>
+<item><name><value>Clinical Herbal Prescriptions: Principles And Practices...</value></name><author><value> Wang Sun-chong</value></author><price>11,039</price></item>
+<item><name><value>Learning Deep Architectures for AI</value></name><author><value> Bengio Yoshua</value></author><price>6,097</price></item>
+<item><name><value>Deep Water</value></name><author><value> Turnbull Ann</value></author><price>776</price></item>
+<item><name><value>A Study Guide for Howard Nemerov's Deep Woods</value></name><author><value> Gale Cengage Learning</value></author><price>689</price></item>
+<item><name><value>A Study Guide for Paul Celan's Late and Deep</value></name><author><value> Gale Cengage Learning</value></author><price>679</price></item>
+<item><name><value>Deep-Space Probes</value></name><author><value> Etingoff Kim</value></author><price>1,299</price></item>
+<item><name><value>A Study Guide for Wilkie Collins's Frozen Deep</value></name><author><value> Gale Cengage Learning</value></author><price>689</price></item>
+<item><name><value>Introduction to Deep Learning Business Applications for...</value></name><author><value> Vieira Armando</value></author><price>1,584</price></item>
+<item><name><value>Deep Learning</value></name><author><value> Deng Li</value></author><price>8,939</price></item>
+<item><name><value>Super Learning Technique (SLT) and Creative Thinking</value></name><author><value> Prusty Pramod K.</value></author><price>1,100</price></item>
+<item><name><value>Deep Learning from Scratch: From Basics to Building Rea...</value></name><author><value> Artem Kovera</value></author><price>1,847</price></item>
+<item><name><value>Python Deep Learning -</value></name><author><value> Vasilev Ivan</value></author><price>879</price></item>
+<item><name><value>Deep Learning with Python Illustrated Guide for Beginne...</value></name><author><value> Sullivan William</value></author><price>1,542</price></item>
+<item><name><value>Deep Learning with Applications Using Python</value></name><author><value> Manaswi Navin Kumar</value></author><price>2,875</price></item>
+<item><name><value>Deep Learning in the Browser</value></name><author><value> Xavier Bourry</value><value> Kai Sasaki</value><value> Christoph Korner</value><value> Reiichiro Nakano</value></author><price>799</price></item>
+<item><name><value>Deep Learning Cookbook: Practical Recipes to Get Starte...</value></name><author><value> Douwe Osinga</value></author><price>725</price></item>
+<item><name><value>R Deep Learning Cookbook</value></name><author><value> Prakash Dr. PKS</value></author><price>2,558</price></item>
+<item><name><value>TensorFlow for Deep Learning</value></name><author><value> Reza Zadeh</value><value> Bharath Ramsundar</value></author><price>713</price></item>
+<item><name><value>Deep Into the Realm of Spirit: Learning the Voice of Go...</value></name><author></author><price>993</price></item>
+<item><name><value>Graph Models for Deep Learning</value></name><author><value> Huff Stephen Donald</value></author><price>1,793</price></item>
+<item><name><value>Deep Information: The Role of Information Policy in Env...</value></name><author><value> John Felleman</value></author><price>4,532</price></item>
+<item><name><value>Discovering Jewish Meditation: Instruction &amp; Guidance f...</value></name><author><value> Nan Fink Gefen</value></author><price>1,026</price></item>
+<item><name><value>Deep Learning Ecologies</value></name><author><value> Patterson Ph D Leslie</value></author><price>2,167</price></item>
+</items>
