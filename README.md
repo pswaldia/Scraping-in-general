@@ -1,5 +1,5 @@
 # Scraping-in-general
-Contains few use cases of web scraping using Beautiful Soup :
+Contains few use cases of web scraping using Beautiful Soup and Scrapy:
 
 # 1. Stock-Scraper:
 In this Use Case , Few details regarding a particular stock ticker is scraped from Yahoo! Finance website. A user needs to supply a TICKER and the information recieved from website will be shown. The website is deployed on heroku and can be accessed through https://stockkk-scraper.herokuapp.com ( `View it on your desktop, It may not be mobile friendly :)` ). Code can be accessed through [`stock-scraper/app.py`](https://github.com/pswaldia/Scraping-in-general/blob/master/stock-scraper/app.py).
